@@ -1,14 +1,58 @@
-- 👋 Hi, I’m @Kasuni-Kavindya-Munasinghe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-<i><br> My Github Username Kasuni-Kavindya-Munasinghe <br>
-My Student Registration Number-IT20059040 </i>
+</div>
+<div align="center">
+   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Kasuni Kavindya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
+   
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kasuni-Kavindya-Munasinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### Connect with me:
+<p align='center'>
+    <a href="https://www.linkedin.com/in/kasuni-kavindya-munasinghe-b79b28203/"><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+     <a href="kasunimunasinghe0@gmail.com"><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
+   
+</p>
+
+<hr>
+
+<div align="center">
+<h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specialising in Information Technology) </h3>
+</div>
+<br>
+<br>
+
+
+<p align="center">
+  <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasuni-Kavindya-Munasinghe&exclude_repo=cravingslk-cms-joomla&layout=compact&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/Kasuni-Kavindya-Munasinghe/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Kasuni-Kavindya-Munasinghe&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+    />
+  </a>
+</p>
+
+## ✨ Languages and tools... ✨
+<p align="center">
+  
+   <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
+   
+  <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
+  <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+ 
+  
+</p>
+
 
 <!---
 Kasuni-Kavindya-Munasinghe/Kasuni-Kavindya-Munasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
