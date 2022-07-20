@@ -40,10 +40,22 @@
 <p align="center">
   
    <img src="assets\badges\Frameworks\react.svg" alt="react" style="vertical-align:top; margin:4px">
-   
   <img src="assets\badges\Frameworks\nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">     
   <img src="assets\badges\Frameworks\bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
  
+ <br>
+ 
+  <img src="assets\badges\Languages\java.svg" alt="java" style="vertical-align:top; margin:4px">
+   <img src="assets\badges\Languages\js.svg" alt="js" style="vertical-align:top; margin:4px">  
+  <img src="assets\badges\Languages\php.svg" alt="php" style="vertical-align:top; margin:4px"> 
+  <img src="assets\badges\Languages\html.svg" alt="html" style="vertical-align:top; margin:4px">
+
+ <br>
+ 
+   <img src="assets\badges\Tools\eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">    
+  <img src="assets\badges\Tools\android_studio_colour.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+  <img src="assets\badges\Tools\visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
 </p>
 
