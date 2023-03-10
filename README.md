@@ -17,7 +17,11 @@
 <h3> 💻 Full Stack Developer  <br> 🎓 I am from Sri Lanka. currently I'm a Undergraduate student at at SLIIT Sri Lanka (BSc (Hons) in Information Technology Specialising in Information Technology) </h3>
 </div>
 <br>
-<br>
+<hr>
+<div align="center">
+<img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
+</div>
+<hr>
 
 
 <p align="center">
