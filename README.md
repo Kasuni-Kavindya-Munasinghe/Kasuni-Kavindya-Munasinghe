@@ -19,7 +19,7 @@
 <br>
 <hr>
 <div align="center">
-<img src="https://raw.githubusercontent.com/MasterLWA/MasterLWA/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Kasuni-Kavindya-Munasinghe/Kasuni-Kavindya-Munasinghe/output/github-contribution-grid-snake.svg" />
 </div>
 <hr>
 
